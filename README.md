@@ -8,7 +8,7 @@ In the config file, user can set couple of parameters, that may be different dep
 
 ## Usage:
 ```bash
-python3 ./example_config.cfg "file_pattern"
+python3 main.py ./example_config.cfg "file_pattern"
 ```
 > [!WARNING]
 > The file pattern follows GNU\Linux wildcards convention and must be in single or double quotes, otherwise script won't work properly! <br>
